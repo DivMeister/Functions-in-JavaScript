@@ -19,6 +19,6 @@ const varName = function(parameters) {code}. In This way the function is declare
 
 An Arrow function is a quick way in which you can write a short function. It works like this: const varName = (parameters) => code
 
-#### How this has changed my perspective of IT and programming in general:
+## How this has changed my perspective of IT and programming in general:
 
 In programming there is alwais multiple different ways of achieving the same goal, this short web app shows how JavaScript can achieve the same thing (executing functions) in multiple different ways. This changed my perspective because in university you learn one method, but there is always different and new ways to achieve the same thing. Goes to show you the IT world is ever changing.
