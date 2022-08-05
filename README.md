@@ -1,4 +1,4 @@
-# Development
+# Production
 
 This repository is about the different ways that you can write functions in JavaScript.
 
