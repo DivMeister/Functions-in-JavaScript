@@ -35,3 +35,7 @@ document
 const string = prompt("Enter any string: ");
 h2.textContent = `The reverse of ${string} is: ${reverseString(string)}`;
 isPalindrome(string);
+
+// This is a cool project. Did not know there are different ways of calling a function ! 
+const add = (num1, num2) => num1 + num2;
+console.log(add(1,2));
